@@ -12,7 +12,7 @@ I'm a 15 yo french high school student, I develop in my spare time.
 </p>
 
 ## How to contact me ?
-* 📯 - [Discord: matbe#0111]
+* 📯 - Discord: matbe#0111
 * ⌨️ - [@Xx_Matbe_xX](https://twitter.com/Xx_Matbe_xX)
 * 💻 - [matbe.tk](https://matbe.tk/)
 
