@@ -20,3 +20,4 @@ I'm a 15 yo french high school student, I develop in my spare time.
 <img alt="Matbe's logo" src="https://avatars.githubusercontent.com/u/59774749?v=4" width="50px" />
 <br/>
 CC BY NC ND - All
+Made by [Asthowen](https://github.com/Asthowen)
