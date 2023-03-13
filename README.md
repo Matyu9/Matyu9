@@ -1,4 +1,4 @@
-### Hello, I'm Matbe 🖖
+### Hello, I'm Mathyu 🖖
 
 I'm a 15 yo french high school student, I develop in my spare time.
 
