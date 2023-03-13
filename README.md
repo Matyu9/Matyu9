@@ -14,7 +14,7 @@ I'm a 15 yo french high school student, I develop in my spare time.
 ## How to contact me ?
 * 📯 - Discord: mathyu#0111
 * ⌨️ - [@Xx_Matbe_xX](https://twitter.com/Xx_Matbe_xX)
-* 💻 - [mathyu.fr - soon](#)
+* 💻 - [matyu.fr - soon](#)
 
 ## About
 <img alt="Mathyu9's logo" src="https://avatars.githubusercontent.com/u/59774749?v=4" width="50px" />
