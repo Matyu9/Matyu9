@@ -1,4 +1,4 @@
-### Hello, I'm Mathyu 🖖
+### Hello, I'm Matyu 🖖
 
 I'm a 15 yo french high school student, I develop in my spare time.
 
@@ -7,17 +7,17 @@ I'm a 15 yo french high school student, I develop in my spare time.
 
 ## Stats
 <p align="center">
-  <img alt="Mathyu9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathyu9&show_icons=true&hide_border=true&theme=tokyonight&hide=issues" />
-  <img alt="Mathyu9's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathyu9&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
+  <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathu9&show_icons=true&hide_border=true&theme=tokyonight&hide=issues" />
+  <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyu9&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ## How to contact me ?
 * 📯 - Discord: mathyu#0111
 * ⌨️ - [@Xx_Matbe_xX](https://twitter.com/Xx_Matbe_xX)
-* 💻 - [matyu.fr - soon](#)
+* 💻 - [matyu.fr](https://matyu.fr/)
 
 ## About
-<img alt="Mathyu9's logo" src="https://avatars.githubusercontent.com/u/59774749?v=4" width="50px" />
+<img alt="Matyu9's logo" src="https://avatars.githubusercontent.com/u/59774749?v=4" width="50px" />
 <br/>
 CC BY NC ND - All <br>
 Made by [Asthowen](https://github.com/Asthowen).
