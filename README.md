@@ -20,4 +20,4 @@ I'm a 15 yo french high school student, I develop in my spare time.
 <img alt="Matyu9's logo" src="https://avatars.githubusercontent.com/u/59774749?v=4" width="50px" />
 <br/>
 CC BY NC ND - All <br>
-Made by .
+Made by [Asthowen](https://github.com/Asthowen).
