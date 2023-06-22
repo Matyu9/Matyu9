@@ -7,8 +7,8 @@ I'm a 15 yo french high school student, I develop in my spare time.
 
 ## Stats
 <p align="center">
-  <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathu9&show_icons=true&hide_border=true&theme=tokyonight&hide=issues" />
-  <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyu9&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
+ <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matyu9&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyu9&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 ## How to contact me ?
