@@ -1,23 +1,16 @@
-### Hello, I'm Matyu 🖖
-
-I'm a 15 yo french high school student, I develop in my spare time.
-
-## My projects
-  **soon**
-
-## Stats
+<h1 align="center">Hi 👋, I'm Matyu9</h1>
+<h3 align="center">A passionate developer from France</h3>
 <p align="center">
- <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matyu9&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img alt="Matyu9's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyu9&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+- 🔭 I’m currently working on [Cantina](https://github.com/Cantina-Org)
 </p>
+<p align="center">
+- 👨‍💻 All of my projects are available at [https://matyu.fr/](https://matyu.fr/)
+</p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## How to contact me ?
-* 📯 - Discord: mathyu#0111
-* ⌨️ - [@Xx_Matbe_xX](https://twitter.com/Xx_Matbe_xX)
-* 💻 - [matyu.fr](https://matyu.fr/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matyu9&show_icons=true&theme=dark&locale=en&layout=compact" alt="matyu9" /></p>
 
-## About
-<img alt="Matyu9's logo" src="https://avatars.githubusercontent.com/u/59774749?v=4" width="50px" />
-<br/>
-CC BY NC ND - All <br>
-Made by [Asthowen](https://github.com/Asthowen).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matyu9&show_icons=true&theme=dark&locale=en" alt="matyu9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matyu9&theme=dark" alt="matyu9" /></p>
