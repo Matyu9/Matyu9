@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matyu9</h1>
 <h3 align="center">A passionate developer from France</h3>
 <p align="center">
-- 🔭 I’m currently working on Cantina
+- 🔭 I’m currently working on [Cantina](https://github.com/Cantina-Org)
 </p>
 <p align="center">
 - 👨‍💻 All of my projects are available on [my wbesite](https://matyu.fr/)
